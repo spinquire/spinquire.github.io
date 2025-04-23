@@ -1,22 +1,23 @@
 # Spinquire
 
-**Investigative Reviews & Risk Research on Crypto Gambling Platforms**
+**Deep Signal Research in Blockchain-Based Gambling Ecosystems**
 
-Spinquire is an independent initiative analyzing the hidden dynamics of blockchain-based gambling systems — with a focus on behavioral risk, transparency failures, and regulatory blind spots.
+Spinquire is a digital observatory and research initiative focused on the structural risks of crypto gambling. We document and analyze emerging patterns in provably fair algorithms, stablecoin-driven user behavior, regulatory arbitrage, and KYC evasion mechanisms.
 
-We provide:
+We publish:
 
-- In-depth reviews of crypto casinos and their provably fair systems  
-- Analysis of stablecoin-driven loss patterns in unregulated gambling  
-- Comparative breakdowns of KYC policies, AML loopholes, and user protections  
-- Open-access research tools for journalists, analysts, and transparency advocates  
+- **Critical reviews** of crypto casinos, tested under real-money conditions  
+- **Comparative risk profiles** based on payout delays, wallet forensics, and bonus obfuscation  
+- **Policy audits** of Terms & Conditions, Know-Your-Customer practices, and AML disclosures  
+- **Behavioral case studies** on frictionless spending and loss abstraction in stablecoin environments  
 
-We are not affiliated with any casino or gambling operator. We do not sell reviews, accept paid placements, or run ads.
+> Our goal is simple: expose dynamics the industry prefers to keep hidden.
 
-> Just signal through the noise.
+We are not a gambling site. We do not sell access, run ads, or trade in SEO placements. Spinquire is fully independent, user-funded, and anonymous by design.
 
-🔗 [https://spinquire.com](https://spinquire.com)
+🔗 Visit: [https://spinquire.com](https://spinquire.com)  
+📄 Articles published on: Medium, HackerNoon, GitHub, and (soon) Zenodo
 
 ---
 
-**Disclaimer:** This is a non-commercial project. All research is independently conducted without sponsorship, referral schemes, or advertising relationships.
+**Disclaimer:** All research is conducted independently and without third-party sponsorship. This repository exists to foster transparency, not trust in platforms.

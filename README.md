@@ -50,6 +50,7 @@ MIT License
 - [Official Website](https://spinquire.com)
 - [Medium](https://medium.com/@spinquire) 
 - [HackerNoon](https://hackernoon.com/u/spinquire-research)
+🔗 ORCID: [https://orcid.org/0009-0003-1653-0487](https://orcid.org/0009-0003-1653-0487)
 
 ---
 
